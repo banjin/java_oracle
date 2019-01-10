@@ -1,4 +1,4 @@
-# java_otacle
+# java_oracle
 学习使用java写oracle数据库
 
 # 将ojdbc8.jar 与java源码放在同一个目录下，并将此路径放到环境变量CLASS_PATH中
